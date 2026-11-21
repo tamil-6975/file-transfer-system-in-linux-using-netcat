@@ -74,13 +74,13 @@ Learning Outcomes
 
 Through this project, I gained practical knowledge of:
 
-TCP/IP communication
-Client-server architecture
-Network ports and sockets
-Linux networking commands
-Packet capture and analysis
-Network troubleshooting
-File transfer over TCP
+TCP/IP communication,
+Client-server architecture,
+Network ports and sockets,
+Linux networking commands,
+Packet capture and analysi,s
+Network troubleshooting,
+File transfer over TCP,
 Basic cybersecurity networking concepts
 
 Future Improvements
