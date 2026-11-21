@@ -85,12 +85,12 @@ Basic cybersecurity networking concepts
 
 Future Improvements
 
-Multi-client chat support
-Encrypted communication
-Bash automation scripts
-User authentication
-File integrity verification using SHA256
-Logging and monitoring dashboard
+1.Multi-client chat support
+2.Encrypted communication
+3.Bash automation scripts
+4.User authentication
+5.File integrity verification using SHA256
+6.Logging and monitoring dashboard
 
 Author
-Tamil M.Sc. Information Technology Cybersecurity Enthusiast
+Tamilarasan M.Sc. Information Technology Cybersecurity Enthusiast
